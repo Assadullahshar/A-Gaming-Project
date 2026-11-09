@@ -1,1 +1,1 @@
-# A-Gaming-Project
+A modern and responsive gaming website designed to provide an engaging experience for gaming enthusiasts. Features an attractive UI, interactive elements, gaming-related content, and user-friendly navigation. Built to explore modern web development concepts and create an immersive gaming platform.
