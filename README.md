@@ -1,1 +1,22 @@
-A modern and responsive gaming website designed to provide an engaging experience for gaming enthusiasts. Features an attractive UI, interactive elements, gaming-related content, and user-friendly navigation. Built to explore modern web development concepts and create an immersive gaming platform.
+# NEON ARENA
+
+A responsive five-page website concept built with HTML, CSS, and vanilla JavaScript.
+
+## Pages
+- Home: `index.html`
+- Games: `games.html`
+- Tournaments: `tournaments.html`
+- Community: `community.html`
+- About: `about.html`
+
+## Run locally
+Open `index.html` in your browser, or use the VS Code Live Server extension.
+
+## Customize
+- Update page content in the HTML files.
+- Change colors and typography in `style.css`.
+- Add real form handling in `script.js` or connect a backend/form provider.
+- Replace demo copy and concept cards with your real content.
+
+## GitHub Pages
+Upload this folder to its own GitHub repository. In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
